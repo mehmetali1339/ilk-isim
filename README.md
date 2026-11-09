@@ -1,8 +1,8 @@
-\# İlk İşim
+# İlk İşim
 
 
 
-\- \*\*Bildiğim diller ve seviyem:\*\*
+- **Bildiğim diller ve seviyem:**
 
 
 
@@ -18,7 +18,7 @@ css mid level
 
 
 
-\- \*\*Şu an yaptığım iş veya okul durumum:\*\*
+- **Şu an yaptığım iş veya okul durumum:**
 
 
 
@@ -26,11 +26,11 @@ Anadolu üniversitesi açıköğretim bilgisayar programcılığı
 
 
 
-\- \*\*Bilgisayarım:\*\* Windows
+- **Bilgisayarım:** Windows
 
 
 
-\- \*\*Günde ayırabileceğim süre:\*\*
+- **Günde ayırabileceğim süre:**
 
 
 
@@ -38,7 +38,7 @@ Anadolu üniversitesi açıköğretim bilgisayar programcılığı
 
 
 
-\- \*\*Yazılımda yapmak istediğim şey:\*\*
+- **Yazılımda yapmak istediğim şey:**
 
 
 
